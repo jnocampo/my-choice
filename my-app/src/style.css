@@ -1,0 +1,94 @@
+.ui.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: 'Patua One' !important;
+}
+
+
+.ui.header {
+  font-family: 'Patua One' !important;
+}
+
+.ui.compact.menu {
+  font-family: 'Montserrat' !important;
+}
+
+.ui.menu {
+  text-align: center;
+}
+.center-background {
+  background: url("/src/babybuns.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 25em;
+  background-size: cover;
+}
+.midtext {
+  color: white;
+  font-size: 50px;
+  padding-top: 75px;
+  font-family: 'Patua One' !important;
+  text-align: center;
+}
+
+.midtext2 {
+  color: white;
+  font-size: 20px;
+  margin-top: 75px;
+  text-align: center;
+  font-family: 'Patua One' !important;
+}
+
+
+.center-button {
+  text-align: center;
+}
+
+
+.buns.photo {
+  width: 90%;
+  height: 90%;
+  padding-top: 40px;
+}
+.white-background {
+  background-color: whitesmoke;
+  padding-top: 20px;
+}
+p {
+  font-family: 'Open Sans' !important;
+  font-size: 25px;
+  padding-top: 40px;
+}
+
+
+.back-color {
+  background-image: linear-gradient(
+      140deg
+      , #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+  width: 100%;
+  background-size:cover;
+}
+
+.left-text {
+  color: white;
+  font-size: 50px;
+  padding-top: 75px;
+  font-family: 'Patua One' !important;
+  text-align: left;
+}
+
+.left-text2 {
+  color: white;
+  font-size: 20px;
+  margin-top: 75px;
+  text-align: center;
+  font-family: 'Patua One' !important;
+}
+
+.extra-padding {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+}
